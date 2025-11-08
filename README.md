@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Net1zen
-- 👀 I’m interested in Java and C#
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Java and C#
+- 👀 I’m interested in Java, C#, NodeJS and Python
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me ...
 
 <!---
